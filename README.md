@@ -112,7 +112,7 @@
             src="https://github-readme-stats.vercel.app/api?username=pushkarkumarsaini2006&show_icons=true&locale=en"
             alt="pushkarkumarsaini2006" /></p>
 
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkarkumarsaini2006&" alt="pushkarkumarsaini2006" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkarkumarsaini2006" alt="pushkarkumarsaini2006" /></p>
 
     ![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
 
