@@ -9,9 +9,9 @@
   </p>
 
   <!-- Contact Information -->
-  - 👨‍💻 Portfolio: [https://portfolio-sigma-eosin-73.vercel.app](https://portfolio-sigma-eosin-73.vercel.app)
+  - 👨‍💻 Portfolio: [Pushkar Kumar Saini](https://portfolio-sigma-eosin-73.vercel.app)
   - 📫 Reach Me: **pushkarkumarsaini2006@gmail.com**
-  - 📄 Resume: [View Resume](https://drive.google.com/file/d/1m0Rk7ZIL_GWUxt3ojSn9ONLAg3GzhLHR/view?usp=sharing)
+  - 📄 Resume: [Pushkar_Kumar_Saini_RESUME](https://drive.google.com/file/d/1xLl8UrXvelgcvLGdPrZucCCM9ViiahZl/view?usp=sharing)
 
   <!-- Social Links -->
   <h3>Connect with me:</h3>
