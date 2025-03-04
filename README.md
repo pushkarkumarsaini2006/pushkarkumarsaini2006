@@ -108,11 +108,11 @@
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkarkumarsaini2006&show_icons=true&locale=en&layout=compact"
             alt="pushkarkumarsaini2006" /></p>
 
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pushkarkumarsaini2006" alt="GitHub Streak" /></a>
+
     <p>&nbsp;<img
             src="https://github-readme-stats.vercel.app/api?username=pushkarkumarsaini2006&show_icons=true&locale=en"
             alt="pushkarkumarsaini2006" /></p>
-
-    [<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pushkarkumarsaini2006" alt="GitHub Streak" /></a>
 
     ![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
 
