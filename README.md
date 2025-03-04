@@ -108,7 +108,7 @@
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkarkumarsaini2006&show_icons=true&locale=en&layout=compact"
             alt="pushkarkumarsaini2006" /></p>
 
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pushkarkumarsaini2006" alt="GitHub Streak" /></a>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkarkumarsaini2006&" alt="pushkarkumarsaini2006" /></p>
 
     <p>&nbsp;<img
             src="https://github-readme-stats.vercel.app/api?username=pushkarkumarsaini2006&show_icons=true&locale=en"
