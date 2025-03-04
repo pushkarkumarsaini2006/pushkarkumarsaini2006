@@ -25,9 +25,6 @@
     <a href="https://www.leetcode.com/pushkarkumarsaini2006" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pushkar LeetCode" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/pushkar_kumar_saini" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pushkar Instagram" height="30" width="40" />
-    </a>
   </p>
 
   <!-- Technologies and Tools -->
