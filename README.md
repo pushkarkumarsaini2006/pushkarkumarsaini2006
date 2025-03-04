@@ -112,7 +112,7 @@
             src="https://github-readme-stats.vercel.app/api?username=pushkarkumarsaini2006&show_icons=true&locale=en"
             alt="pushkarkumarsaini2006" /></p>
 
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pushkarkumarsaini2006&theme=onedark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    [![GitHub Streak](https://streak-stats.demolab.com/pushkarkumarsaini2006=DenverCoder1)](https://git.io/streak-stats)
 
     ![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
 
