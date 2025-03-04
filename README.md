@@ -84,8 +84,10 @@
                         alt="GitHub Streak" /></a>
         <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pushkarkumarsaini2006&show_icons=true&locale=en"
                         alt="pushkarkumarsaini2006" /></p>
-        ![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
-        <p align="center"> <img
+        
+![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
+        
+<p align="center"> <img
                         src="https://komarev.com/ghpvc/?username=pushkarkumarsaini2006&label=Profile%20views&color=0e75b6&style=flat"
                         alt="pushkarkumarsaini2006" /> </p>
 </div>
