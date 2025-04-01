@@ -14,7 +14,7 @@
 
   <!-- Contact Information -->
   - 👨‍💻 Portfolio: [Pushkar Kumar Saini](https://portfolio-sigma-eosin-73.vercel.app)
-  - 📄 Resume: [Pushkar_Kumar_Saini_RESUME](https://drive.google.com/file/d/1YKeuge7FzErXL0V7Swv5_7j6cyZInEbi/view?usp=sharing)
+  - 📄 Resume: [Pushkar_Kumar_Saini_RESUME](https://drive.google.com/file/d/19baWmzAX8-n56BGIYiNMFvu1ngpAqCt6/view?usp=sharing)
   - 📫 Reach Me: **pushkarkumarsaini2006@gmail.com**
 
   <!-- Social Links -->
