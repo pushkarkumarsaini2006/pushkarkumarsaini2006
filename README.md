@@ -13,8 +13,8 @@
   </p>
 
   <!-- Contact Information -->
-  - 👨‍💻 Portfolio: [Pushkar Kumar Saini](https://portfolio-sigma-eosin-73.vercel.app)
-  - 📄 Resume: [Pushkar_Kumar_Saini_RESUME](https://drive.google.com/file/d/19baWmzAX8-n56BGIYiNMFvu1ngpAqCt6/view?usp=sharing)
+  - 👨‍💻 Portfolio: [Pushkar Kumar Saini](https://portfolio-ruddy-gamma-87.vercel.app/)
+  - 📄 Resume: [Pushkar_Kumar_Saini_RESUME](https://drive.google.com/file/d/184iOlDXaOc6hlmj63gcs7c2X9rf8F4Vq/view?usp=sharing)
   - 📫 Reach Me: **pushkarkumarsaini2006@gmail.com**
 
   <!-- Social Links -->
