@@ -1,3 +1,7 @@
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=pushkarkumarsaini2006&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarkumarsaini2006" />
+  </p>
   <div align="center">
   <h1>Hi 👋, I'm Pushkar Kumar Saini</h1>
   <h3>Aspiring Software Engineer with a passion for Web Development. Currently pursuing B.E. and exploring innovative solutions through technology.</h3>
@@ -101,7 +105,3 @@
   ![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
 
 </div>
-<!-- Profile Views -->
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pushkarkumarsaini2006&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarkumarsaini2006" />
-</p>
