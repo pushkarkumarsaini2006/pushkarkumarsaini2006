@@ -8,10 +8,8 @@
   <h3>Aspiring Software Engineer with a passion for Full Stack Development. Currently pursuing B.E. and exploring innovative solutions through technology.</h3>
 
   <!-- GitHub Profile Trophy -->
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=pushkarkumarsaini2006" alt="pushkarkumarsaini2006" />
-    </a>
-  </p>
+  ![](https://github-profile-trophy.vercel.app/?username=pushkarkumarsaini2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
   <!-- Contact Information -->
   - 👨‍💻 Portfolio: [Pushkar Kumar Saini](https://portfolio-sigma-eosin-73.vercel.app)
@@ -101,6 +99,10 @@
     <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=pushkarkumarsaini2006" alt="GitHub Streak" />
   </a>
+  
+  <!-- Top Contributed Repos -->
+![](https://github-contributor-stats.vercel.app/api?username=pushkarkumarsaini2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
   <!-- Snake Animation -->
   ![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
