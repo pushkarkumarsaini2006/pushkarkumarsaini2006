@@ -1,6 +1,6 @@
 <!-- Profile Views -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pushkarkumarsaini2006&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarkumarsaini2006" />
+    <img src="https://komarev.com/ghpvc/?username=pushkarkumarsaini2006&label=Profile%20views&color=blueviolet&style=flat" alt="pushkarkumarsaini2006" />
   </p>
 
  <div align="center">
@@ -90,21 +90,20 @@
 
   <!-- GitHub Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkarkumarsaini2006&show_icons=true&locale=en&layout=compact" alt="pushkarkumarsaini2006" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkarkumarsaini2006&show_icons=true&theme=radical&locale=en&layout=compact" alt="pushkarkumarsaini2006" />
   </p>
   <!-- GitHub Streak -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=pushkarkumarsaini2006&show_icons=true&locale=en" alt="pushkarkumarsaini2006" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pushkarkumarsaini2006&show_icons=true&theme=radical&locale=en" alt="pushkarkumarsaini2006" />
   </p>
-    <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pushkarkumarsaini2006" alt="GitHub Streak" />
-  </a>
   
   <!-- Top Contributed Repos -->
-![](https://github-contributor-stats.vercel.app/api?username=pushkarkumarsaini2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=pushkarkumarsaini2006&limit=3&theme=radical&combine_all_yearly_contributions=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pushkarkumarsaini2006&theme=radical)](https://git.io/streak-stats)
 
   <!-- Snake Animation -->
   ![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
 
   </div>
+
