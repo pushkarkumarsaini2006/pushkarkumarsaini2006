@@ -92,15 +92,16 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkarkumarsaini2006&show_icons=true&theme=radical&locale=en&layout=compact" alt="pushkarkumarsaini2006" />
   </p>
+  
   <!-- GitHub Streak -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=pushkarkumarsaini2006&show_icons=true&theme=radical&locale=en" alt="pushkarkumarsaini2006" />
   </p>
-  
-  <!-- Top Contributed Repos -->
-![](https://github-contributor-stats.vercel.app/api?username=pushkarkumarsaini2006&limit=3&theme=radical&combine_all_yearly_contributions=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pushkarkumarsaini2006&theme=radical)](https://git.io/streak-stats)
+
+  <!-- Top Contributed Repos -->
+![](https://github-contributor-stats.vercel.app/api?username=pushkarkumarsaini2006&limit=3&theme=radical&combine_all_yearly_contributions=true)
 
   <!-- Snake Animation -->
   ![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
