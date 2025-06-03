@@ -1,15 +1,15 @@
 <!-- Profile Views -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pushkarkumarsaini2006&label=Profile%20views&color=blueviolet&style=flat" alt="pushkarkumarsaini2006" />
-  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pushkarkumarsaini2006&label=Profile%20views&color=blueviolet&style=flat" alt="pushkarkumarsaini2006" />
+</p>
 
- <div align="center">
+<div align="center">
+
   <h1>Hi 👋, I'm Pushkar Kumar Saini</h1>
   <h3>Aspiring Software Engineer with a passion for Full Stack Development. Currently pursuing B.E. and exploring innovative solutions through technology.</h3>
 
   <!-- GitHub Profile Trophy -->
   ![](https://github-profile-trophy.vercel.app/?username=pushkarkumarsaini2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
   <!-- Contact Information -->
   - 👨‍💻 Portfolio: [Pushkar Kumar Saini](https://portfolio-sigma-eosin-73.vercel.app)
@@ -29,6 +29,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pushkar LeetCode" height="30" width="40" />
     </a>
   </p>
+
   <!-- Technologies and Tools -->
   <h3>Languages and Tools:</h3>
   <p>
@@ -92,19 +93,18 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkarkumarsaini2006&show_icons=true&theme=radical&locale=en&layout=compact" alt="pushkarkumarsaini2006" />
   </p>
-  
+
   <!-- GitHub Streak -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=pushkarkumarsaini2006&show_icons=true&theme=radical&locale=en" alt="pushkarkumarsaini2006" />
   </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pushkarkumarsaini2006&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=pushkarkumarsaini2006&theme=radical)](https://git.io/streak-stats)
 
   <!-- Top Contributed Repos -->
-![](https://github-contributor-stats.vercel.app/api?username=pushkarkumarsaini2006&limit=3&theme=radical&combine_all_yearly_contributions=true)
+  ![](https://github-contributor-stats.vercel.app/api?username=pushkarkumarsaini2006&limit=3&theme=radical&combine_all_yearly_contributions=true)
 
   <!-- Snake Animation -->
   ![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
 
-  </div>
-
+</div>
