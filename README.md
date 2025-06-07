@@ -8,9 +8,6 @@
   <h1>Hi 👋, I'm Pushkar Kumar Saini</h1>
   <h3>Aspiring Software Engineer with a passion for Full Stack Development. Currently pursuing B.E. and exploring innovative solutions through technology.</h3>
 
-  <!-- GitHub Profile Trophy -->
-  ![](https://github-profile-trophy.vercel.app/?username=pushkarkumarsaini2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
   <!-- Contact Information -->
   - 👨‍💻 Portfolio: [Pushkar Kumar Saini](https://portfolio-sigma-eosin-73.vercel.app)
   - 📄 Resume: [Pushkar_Kumar_Saini_RESUME](https://drive.google.com/file/d/1Gh1dYu8bo44iErz8jZ9XWaYExqDm4qLz/view?usp=sharing)
@@ -29,6 +26,10 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pushkar LeetCode" height="30" width="40" />
     </a>
   </p>
+
+
+  <!-- GitHub Profile Trophy -->
+  ![](https://github-profile-trophy.vercel.app/?username=pushkarkumarsaini2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
   <!-- Technologies and Tools -->
   <h3>Languages and Tools:</h3>
@@ -103,6 +104,8 @@
 
   <!-- Top Contributed Repos -->
   ![](https://github-contributor-stats.vercel.app/api?username=pushkarkumarsaini2006&limit=3&theme=radical&combine_all_yearly_contributions=true)
+
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pushkarkumarsaini2006&theme=github-compact)](https://github.com/pushkarkumarsaini2006/github-readme-activity-graph)
 
   <!-- Snake Animation -->
   ![snake gif](https://github.com/pushkarkumarsaini2006/pushkarkumarsaini2006/blob/output/github-snake-dark.svg)
