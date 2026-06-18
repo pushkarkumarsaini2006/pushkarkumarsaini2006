@@ -73,7 +73,7 @@
 <h2 align="center">GitHub Highlights</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pushkarkumarsaini2006&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pushkarkumarsaini2006&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
 
 <h3 align="center">📊 Statistics & Languages</h3>
