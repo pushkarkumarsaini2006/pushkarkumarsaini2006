@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://portfolio-sigma-eosin-73.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://drive.google.com/file/d/1tgACPQ7Spj1zzcmin9Td1ME-CWYycNq7/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1iVXmr4NnNGyARbRAf7-vvLN3WXMcVG4D/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="mailto:pushkarkumarsaini2006@gmail.com"><img src="https://img.shields.io/badge/Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 </p>
 
